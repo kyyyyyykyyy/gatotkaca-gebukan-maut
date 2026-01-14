@@ -12,7 +12,7 @@
 
 <br>
 
-**"Otot Kawat, Tulang Besi!"**
+**"Otot Kawat, Tulang Besi!"**  
 <br>
 Game aksi 2D klasik yang mengangkat legenda pahlawan super Indonesia.
 <br>
